@@ -24,7 +24,8 @@ Find these mods available on https://valheim.thunderstore.io/
 - ZenUseItem
 - ZenWorldSettings
 
-### Like My Mods? Donations Welcome 
+---
+### Like My Mods? Donations Welcome
 
 `Bitcon: bc1q34lrc82dp73jhv9ylefz0gvmeqfn96e938p4pf`
 
