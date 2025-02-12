@@ -28,4 +28,4 @@ Find these mods available on https://valheim.thunderstore.io/
 
 `Bitcon: bc1q34lrc82dp73jhv9ylefz0gvmeqfn96e938p4pf`
 
-![Donation QR](BTC_QR.png)
+<img alt="Donation QR" src="BTC_QR.png" width=180>
