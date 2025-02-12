@@ -23,3 +23,9 @@ Find these mods available on https://valheim.thunderstore.io/
 - ZenUI
 - ZenUseItem
 - ZenWorldSettings
+
+### Like My Mods? Donations Welcome 
+
+`Bitcon: bc1q34lrc82dp73jhv9ylefz0gvmeqfn96e938p4pf`
+
+![Donation QR](BTC_QR.png)
