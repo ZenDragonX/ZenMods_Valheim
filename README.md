@@ -20,5 +20,6 @@ Find these mods available on https://valheim.thunderstore.io/
 - ZenSign
 - ZenTargeting
 - ZenTerrain
+- ZenUI
 - ZenUseItem
 - ZenWorldSettings
