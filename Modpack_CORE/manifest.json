@@ -1,7 +1,7 @@
 ﻿{
   "name": "ZenModpack_CORE",
   "description": "ZenModpack CORE. The full collection of all ZenMods",
-  "version_number": "1.0.1",
+  "version_number": "1.0.2",
   "website_url": "https://github.com/ZenDragonX/ZenMods_Valheim",
   "dependencies": [
 		"denikson-BepInExPack_Valheim-5.4.2202",
@@ -9,6 +9,7 @@
 		"ValheimModding-Jotunn-2.23.2",
 		"ZenDragon-ZenBeehive-0.1.3",
 		"ZenDragon-ZenBossStone-0.1.9",
+		"ZenDragon-ZenBreeding-0.1.0",
 		"ZenDragon-ZenCombat-0.1.12",
 		"ZenDragon-ZenCompass-1.0.10",
 		"ZenDragon-ZenConstruction-0.1.0",
@@ -24,6 +25,6 @@
 		"ZenDragon-ZenTerrain-0.1.1",
 		"ZenDragon-ZenUI-0.1.1",
 		"ZenDragon-ZenUseItem-0.1.4",
-		"ZenDragon-ZenWorldSettings-0.1.16" 
+		"ZenDragon-ZenWorldSettings-0.1.16"
 	]
 }
