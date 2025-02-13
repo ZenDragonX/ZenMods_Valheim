@@ -10,6 +10,7 @@ Find these mods available on [Thunderstore](https://thunderstore.io/c/valheim/p/
 
 - ZenBehive
 - ZenBossStone
+- ZenBreeding
 - ZenCombat
 - ZenCompass
 - ZenConstruction
