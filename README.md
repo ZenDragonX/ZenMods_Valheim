@@ -4,33 +4,6 @@ Please use this area to submit any feedback or bug reports via the [Issues](http
 
 If you would like to discuss the mods or just say hi come find me on [Discord](https://discord.gg/fw968xhV).
 
-### The Zen Collection
+[The Zen Collection](https://github.com/ZenDragonX/ZenMods_Valheim/wiki) available on [Thunderstore](https://thunderstore.io/c/valheim/p/ZenDragon/)
 
-Find these mods available on [Thunderstore](https://thunderstore.io/c/valheim/p/ZenDragon/)
-
-- ZenBehive
-- ZenBossStone
-- ZenBreeding
-- ZenCombat
-- ZenCompass
-- ZenConstruction
-- ZenHoverItem
-- ZenItemStands
-- ZenMap
-- ZenPath
-- ZenRaids
-- ZenRecycle
-- ZenRedecorate
-- ZenSign
-- ZenTargeting
-- ZenTerrain
-- ZenUI
-- ZenUseItem
-- ZenWorldSettings
-
----
-### Like My Mods? Donations Welcome
-
-`Bitcoin: bc1q34lrc82dp73jhv9ylefz0gvmeqfn96e938p4pf`
-
-<img alt="Donation QR" src="BTC_QR.png" width=180>
+Like My Mods? [Donations](https://github.com/ZenDragonX/ZenMods_Valheim/wiki/Donations) Welcome
