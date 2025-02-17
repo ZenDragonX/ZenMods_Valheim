@@ -1,7 +1,7 @@
 ﻿{
   "name": "ZENHEIM",
   "description": "ZENHEIM: Enhanced Valheim",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/ZenDragonX/ZenMods_Valheim",
   "dependencies": [
 		"denikson-BepInExPack_Valheim-5.4.2202",
