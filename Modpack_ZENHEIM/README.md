@@ -14,7 +14,7 @@ Best with these Valheim World Modifiers enabled:
 ## New Game Rules
 
 - Keep your fires lit!  Workbenches no longer protect against monster spawns, torches and fireplaces do.
-- Per player Boss Stones. Each player sees their own version of the Boss Stones depending on their own progression so you don't all have to play at the same time.
+- Each player sees their own version of the Boss Stones depending on their own progression so you don't all have to play at the same time.
 - No wooden arrows, they are over-powered.
 - Low-map, use the Cartography Table and Compass to find your way. The map visibility depends on the age of the table, not you. 
 - Map Pins must be crafted and applied to signs in the wild, you can not apply them from the table.

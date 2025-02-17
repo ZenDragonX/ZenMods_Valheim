@@ -1,7 +1,7 @@
 ﻿{
   "name": "ZENHEIM",
   "description": "Enhanced Valheim - The rules have changed. Optimized custom code. Full gamepad support.",
-  "version_number": "1.0.3",
+  "version_number": "1.0.4",
   "website_url": "https://github.com/ZenDragonX/ZenMods_Valheim",
   "dependencies": [
 		"denikson-BepInExPack_Valheim-5.4.2202",
