@@ -1,0 +1,348 @@
+{
+  "Spring": {
+    "add": [],
+    "remove": [],
+    "replace": []
+  },
+  "Summer": {
+    "add": [
+      {
+        "m_name": "Meadows",
+        "m_environment": {
+          "m_environment": "Heath clear",
+          "m_weight": 2.0,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Black forest",
+        "m_environment": {
+          "m_environment": "LightRain",
+          "m_weight": 0.1,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Black forest",
+        "m_environment": {
+          "m_environment": "Clear",
+          "m_weight": 0.2,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Swamp",
+        "m_environment": {
+          "m_environment": "SwampRain Summer",
+          "m_weight": 0.1,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Swamp",
+        "m_environment": {
+          "m_environment": "Swamp Summer",
+          "m_weight": 0.1,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Mountain",
+        "m_environment": {
+          "m_environment": "Twilight_Clear",
+          "m_weight": 1.0,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Mountain",
+        "m_environment": {
+          "m_environment": "Twilight_Snow",
+          "m_weight": 1.0,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Plains",
+        "m_environment": {
+          "m_environment": "ThunderStorm",
+          "m_weight": 0.1,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Ocean",
+        "m_environment": {
+          "m_environment": "Heath clear",
+          "m_weight": 1.0,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Mistlands",
+        "m_environment": {
+          "m_environment": "Heath clear",
+          "m_weight": 0.5,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      }
+    ],
+    "remove": [],
+    "replace": [
+      {
+        "m_environment": "Clear",
+        "replace_to": "Clear Summer"
+      },
+      {
+        "m_environment": "Misty",
+        "replace_to": "Misty Summer"
+      },
+      {
+        "m_environment": "DeepForest Mist",
+        "replace_to": "DeepForest Mist Summer"
+      },
+      {
+        "m_environment": "Mistlands_clear",
+        "replace_to": "Mistlands_clear Summer"
+      },
+      {
+        "m_environment": "Heath clear",
+        "replace_to": "Heath clear Summer"
+      }
+    ]
+  },
+  "Fall": {
+    "add": [
+      {
+        "m_name": "Meadows",
+        "m_environment": {
+          "m_environment": "DeepForest Mist",
+          "m_weight": 0.2,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Meadows",
+        "m_environment": {
+          "m_environment": "SwampRain Fall",
+          "m_weight": 0.2,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Black forest",
+        "m_environment": {
+          "m_environment": "LightRain",
+          "m_weight": 0.1,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Black forest",
+        "m_environment": {
+          "m_environment": "SwampRain Fall",
+          "m_weight": 0.1,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Swamp",
+        "m_environment": {
+          "m_environment": "ThunderStorm",
+          "m_weight": 0.1,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Mountain",
+        "m_environment": {
+          "m_environment": "Twilight_SnowStorm",
+          "m_weight": 0.5,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Plains",
+        "m_environment": {
+          "m_environment": "Rain",
+          "m_weight": 0.4,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Plains",
+        "m_environment": {
+          "m_environment": "ThunderStorm",
+          "m_weight": 0.2,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Plains",
+        "m_environment": {
+          "m_environment": "SwampRain Fall",
+          "m_weight": 0.1,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Ocean",
+        "m_environment": {
+          "m_environment": "SwampRain Fall",
+          "m_weight": 0.1,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Ocean",
+        "m_environment": {
+          "m_environment": "DeepForest Mist",
+          "m_weight": 0.1,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Mistlands",
+        "m_environment": {
+          "m_environment": "SwampRain Fall",
+          "m_weight": 0.1,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Mistlands",
+        "m_environment": {
+          "m_environment": "DeepForest Mist",
+          "m_weight": 0.1,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      }
+    ],
+    "remove": [],
+    "replace": [
+      {
+        "m_environment": "ThunderStorm",
+        "replace_to": "ThunderStorm Fall"
+      }
+    ]
+  },
+  "Winter": {
+    "add": [
+      {
+        "m_name": "Mountain",
+        "m_environment": {
+          "m_environment": "Twilight_SnowStorm",
+          "m_weight": 1.0,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Plains",
+        "m_environment": {
+          "m_environment": "Snow",
+          "m_weight": 0.5,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Ocean",
+        "m_environment": {
+          "m_environment": "Darklands_dark Winter",
+          "m_weight": 0.1,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Mistlands",
+        "m_environment": {
+          "m_environment": "Twilight_Snow",
+          "m_weight": 0.1,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      },
+      {
+        "m_name": "Mistlands",
+        "m_environment": {
+          "m_environment": "Twilight_SnowStorm",
+          "m_weight": 0.1,
+          "m_ashlandsOverride": false,
+          "m_deepnorthOverride": false
+        }
+      }
+    ],
+    "remove": [],
+    "replace": [
+      {
+        "m_environment": "Rain",
+        "replace_to": "Rain Winter"
+      },
+      {
+        "m_environment": "LightRain",
+        "replace_to": "LightRain Winter"
+      },
+      {
+        "m_environment": "ThunderStorm",
+        "replace_to": "ThunderStorm Winter"
+      },
+      {
+        "m_environment": "Clear",
+        "replace_to": "Clear Winter"
+      },
+      {
+        "m_environment": "Misty",
+        "replace_to": "Misty Winter"
+      },
+      {
+        "m_environment": "DeepForest Mist",
+        "replace_to": "DeepForest Mist Winter"
+      },
+      {
+        "m_environment": "SwampRain",
+        "replace_to": "SwampRain Winter"
+      },
+      {
+        "m_environment": "Mistlands_clear",
+        "replace_to": "Mistlands_clear Winter"
+      },
+      {
+        "m_environment": "Mistlands_rain",
+        "replace_to": "Mistlands_rain Winter"
+      },
+      {
+        "m_environment": "Mistlands_thunder",
+        "replace_to": "Mistlands_thunder Winter"
+      },
+      {
+        "m_environment": "Heath clear",
+        "replace_to": "Heath clear Winter"
+      }
+    ]
+  }
+}

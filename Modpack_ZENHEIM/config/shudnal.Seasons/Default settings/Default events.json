@@ -1,0 +1,112 @@
+[
+  {
+    "m_name": "army_eikthyr",
+    "m_biomes": "Meadows, BlackForest",
+    "m_weight": 1
+  },
+  {
+    "m_name": "army_goblin",
+    "m_biomes": "Meadows, BlackForest, Plains",
+    "m_weight": 1
+  },
+  {
+    "m_name": "army_theelder",
+    "m_biomes": "Meadows, Swamp, BlackForest, Plains",
+    "m_weight": 1
+  },
+  {
+    "m_name": "wolves",
+    "m_biomes": "Mountain, Plains",
+    "m_weight": 1
+  },
+  {
+    "m_name": "skeletons",
+    "m_biomes": "Meadows, Swamp, Mountain, BlackForest, Plains, Mistlands",
+    "m_weight": 1
+  },
+  {
+    "m_name": "army_bonemass",
+    "m_biomes": "Meadows, Swamp, Mountain, BlackForest, Plains",
+    "m_weight": 1
+  },
+  {
+    "m_name": "army_moder",
+    "m_biomes": "Meadows, Swamp, Mountain, BlackForest, Plains",
+    "m_weight": 1
+  },
+  {
+    "m_name": "blobs",
+    "m_biomes": "Meadows, Swamp, BlackForest, Plains",
+    "m_weight": 1
+  },
+  {
+    "m_name": "foresttrolls",
+    "m_biomes": "Meadows, Swamp, BlackForest, Plains",
+    "m_weight": 1
+  },
+  {
+    "m_name": "surtlings",
+    "m_biomes": "Meadows, Swamp, BlackForest, Plains",
+    "m_weight": 1
+  },
+  {
+    "m_name": "army_theelder",
+    "m_biomes": "Meadows, Swamp, BlackForest, Plains",
+    "m_weight": 1
+  },
+  {
+    "m_name": "army_moder",
+    "m_biomes": "Meadows, Swamp, Mountain, BlackForest, Plains",
+    "m_weight": 1
+  },
+  {
+    "m_name": "ghosts",
+    "m_biomes": "Meadows, Swamp, Mountain, BlackForest, Plains",
+    "m_weight": 1
+  },
+  {
+    "m_name": "bats",
+    "m_biomes": "All",
+    "m_weight": 1
+  },
+  {
+    "m_name": "army_gjall",
+    "m_biomes": "Mistlands",
+    "m_weight": 1
+  },
+  {
+    "m_name": "army_seekers",
+    "m_biomes": "BlackForest, Plains, AshLands, DeepNorth, Mistlands",
+    "m_weight": 1
+  },
+  {
+    "m_name": "hildirboss1",
+    "m_biomes": "All",
+    "m_weight": 1
+  },
+  {
+    "m_name": "hildirboss2",
+    "m_biomes": "All",
+    "m_weight": 1
+  },
+  {
+    "m_name": "hildirboss3",
+    "m_biomes": "All",
+    "m_weight": 1
+  },
+  {
+    "m_name": "gemgoblin",
+    "m_biomes": "BlackForest, Plains, AshLands, DeepNorth, Mistlands",
+    "m_weight": 1
+  },
+  {
+    "m_name": "army_charred",
+    "m_biomes": "BlackForest, Plains, AshLands, DeepNorth, Mistlands",
+    "m_weight": 1
+  },
+  {
+    "m_name": "army_charredspawners",
+    "m_biomes": "BlackForest, Plains, AshLands, DeepNorth, Mistlands",
+    "m_weight": 1
+  }
+]

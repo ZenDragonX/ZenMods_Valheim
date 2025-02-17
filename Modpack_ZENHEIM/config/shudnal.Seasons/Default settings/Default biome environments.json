@@ -1,0 +1,294 @@
+[
+  {
+    "m_name": "Meadows",
+    "m_biome": 1,
+    "m_environments": [
+      {
+        "m_environment": "Clear",
+        "m_weight": 5.0,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "Rain",
+        "m_weight": 0.2,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "Misty",
+        "m_weight": 0.2,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "ThunderStorm",
+        "m_weight": 0.2,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "LightRain",
+        "m_weight": 0.2,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      }
+    ],
+    "m_musicMorning": "",
+    "m_musicEvening": "",
+    "m_musicDay": "meadows",
+    "m_musicNight": ""
+  },
+  {
+    "m_name": "Black forest",
+    "m_biome": 8,
+    "m_environments": [
+      {
+        "m_environment": "DeepForest Mist",
+        "m_weight": 2.0,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "Rain",
+        "m_weight": 0.1,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "Misty",
+        "m_weight": 0.1,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "ThunderStorm",
+        "m_weight": 0.1,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      }
+    ],
+    "m_musicMorning": "",
+    "m_musicEvening": "",
+    "m_musicDay": "blackforest",
+    "m_musicNight": "blackforest"
+  },
+  {
+    "m_name": "Swamp",
+    "m_biome": 2,
+    "m_environments": [
+      {
+        "m_environment": "SwampRain",
+        "m_weight": 1.0,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      }
+    ],
+    "m_musicMorning": "",
+    "m_musicEvening": "",
+    "m_musicDay": "swamp",
+    "m_musicNight": "swamp"
+  },
+  {
+    "m_name": "Mountain",
+    "m_biome": 4,
+    "m_environments": [
+      {
+        "m_environment": "SnowStorm",
+        "m_weight": 1.0,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "Snow",
+        "m_weight": 5.0,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      }
+    ],
+    "m_musicMorning": "",
+    "m_musicEvening": "",
+    "m_musicDay": "mountain",
+    "m_musicNight": "mountain"
+  },
+  {
+    "m_name": "Deep north",
+    "m_biome": 64,
+    "m_environments": [
+      {
+        "m_environment": "Twilight_SnowStorm",
+        "m_weight": 0.5,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "Twilight_Snow",
+        "m_weight": 1.0,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "Twilight_Clear",
+        "m_weight": 1.0,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      }
+    ],
+    "m_musicMorning": "",
+    "m_musicEvening": "",
+    "m_musicDay": "",
+    "m_musicNight": ""
+  },
+  {
+    "m_name": "Plains",
+    "m_biome": 16,
+    "m_environments": [
+      {
+        "m_environment": "Heath clear",
+        "m_weight": 2.0,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "Misty",
+        "m_weight": 0.4,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "LightRain",
+        "m_weight": 0.4,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      }
+    ],
+    "m_musicMorning": "",
+    "m_musicEvening": "",
+    "m_musicDay": "plains",
+    "m_musicNight": "plains"
+  },
+  {
+    "m_name": "Ocean",
+    "m_biome": 256,
+    "m_environments": [
+      {
+        "m_environment": "Rain",
+        "m_weight": 0.1,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "LightRain",
+        "m_weight": 0.1,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "Misty",
+        "m_weight": 0.1,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "Clear",
+        "m_weight": 1.0,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "ThunderStorm",
+        "m_weight": 0.1,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "Ashlands_SeaStorm",
+        "m_weight": 0.05,
+        "m_ashlandsOverride": true,
+        "m_deepnorthOverride": false
+      }
+    ],
+    "m_musicMorning": "",
+    "m_musicEvening": "",
+    "m_musicDay": "",
+    "m_musicNight": ""
+  },
+  {
+    "m_name": "Mistlands",
+    "m_biome": 512,
+    "m_environments": [
+      {
+        "m_environment": "Mistlands_clear",
+        "m_weight": 1.5,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "Mistlands_rain",
+        "m_weight": 0.1,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "Mistlands_thunder",
+        "m_weight": 0.1,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      }
+    ],
+    "m_musicMorning": "",
+    "m_musicEvening": "",
+    "m_musicDay": "mistlands",
+    "m_musicNight": "mistlands"
+  },
+  {
+    "m_name": "Ashlands",
+    "m_biome": 32,
+    "m_environments": [
+      {
+        "m_environment": "Ashlands_ashrain",
+        "m_weight": 1.5,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "Ashlands_misty",
+        "m_weight": 0.1,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "Ashlands_CinderRain",
+        "m_weight": 0.2,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      },
+      {
+        "m_environment": "Ashlands_storm",
+        "m_weight": 0.05,
+        "m_ashlandsOverride": false,
+        "m_deepnorthOverride": false
+      }
+    ],
+    "m_musicMorning": "",
+    "m_musicEvening": "",
+    "m_musicDay": "ashlands",
+    "m_musicNight": "ashlands"
+  },
+  {
+    "m_name": "Ashlands Ocean",
+    "m_biome": 256,
+    "m_environments": [
+      {
+        "m_environment": "Ashlands_SeaStorm",
+        "m_weight": 0.05,
+        "m_ashlandsOverride": true,
+        "m_deepnorthOverride": false
+      }
+    ],
+    "m_musicMorning": "",
+    "m_musicEvening": "",
+    "m_musicDay": "",
+    "m_musicNight": ""
+  }
+]

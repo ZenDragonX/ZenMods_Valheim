@@ -1,0 +1,20 @@
+{
+  "daysInSeason": 10,
+  "nightLength": 30,
+  "torchAsFiresource": true,
+  "torchDurabilityDrain": 0.1,
+  "plantsGrowthMultiplier": 0.5,
+  "beehiveProductionMultiplier": 1.5,
+  "foodDrainMultiplier": 1.0,
+  "staminaDrainMultiplier": 1.0,
+  "fireplaceDrainMultiplier": 1.0,
+  "sapCollectingSpeedMultiplier": 0.5,
+  "rainProtection": false,
+  "woodFromTreesMultiplier": 1.25,
+  "windIntensityMultiplier": 1.2,
+  "restedBuffDurationMultiplier": 0.85,
+  "livestockProcreationMultiplier": 0.75,
+  "overheatIn2WarmClothes": false,
+  "meatFromAnimalsMultiplier": 1.25,
+  "treesRegrowthChance": 0.25
+}

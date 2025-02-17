@@ -1,0 +1,323 @@
+{
+  "particleSystemStartColors": [
+    "leaf_particles",
+    "vfx_bush_destroyed",
+    "vfx_bush_destroyed_heath",
+    "vfx_bush_leaf_puff",
+    "vfx_bush_leaf_puff_heath",
+    "vfx_bush2_e_hit",
+    "vfx_bush2_en_destroyed",
+    "vfx_shrub_2_hit"
+  ],
+  "shadersTypes": {
+    "MeshRenderer": [
+      "Custom/Vegetation",
+      "Custom/Grass",
+      "Custom/StaticRock",
+      "Custom/Piece",
+      "Custom/Yggdrasil",
+      "Custom/Yggdrasil_root"
+    ],
+    "InstanceRenderer": [
+      "Custom/Vegetation",
+      "Custom/Grass"
+    ],
+    "SkinnedMeshRenderer": [
+      "Custom/Creature"
+    ],
+    "ParticleSystemRenderer": [
+      "Standard",
+      "Particles/Standard Surface2"
+    ]
+  },
+  "shaderColors": {
+    "Custom/StaticRock": [
+      "_MossColor"
+    ],
+    "Custom/Yggdrasil_root": [
+      "_MossColor"
+    ]
+  },
+  "materialColors": {
+    "Vines_Mat": [
+      "_Color"
+    ],
+    "carrot_blast": [
+      "_Color"
+    ],
+    "barley_sapling": [
+      "_Color"
+    ],
+    "Bush01_raspberry": [
+      "_Color"
+    ],
+    "grasscross_mistlands_short": [
+      "_Color"
+    ],
+    "Bush02_en": [
+      "_Color"
+    ],
+    "shrub_heath": [
+      "_Color"
+    ],
+    "bfp_straw_roof": [
+      "_Color"
+    ],
+    "bfp_straw_roof_alpha": [
+      "_Color"
+    ],
+    "bfp_straw_roof_corner_alpha": [
+      "_Color"
+    ],
+    "bcp_clay": [
+      "_Color"
+    ],
+    "Grausten_RoofSlab_mat": [
+      "_Color"
+    ],
+    "Vine_Sapling_ashlands_mat": [
+      "_Color"
+    ],
+    "Vines_ashlands_mat": [
+      "_Color"
+    ]
+  },
+  "shaderTextures": {
+    "Custom/Vegetation": [
+      "_MainTex"
+    ],
+    "Custom/Grass": [
+      "_MainTex",
+      "_TerrainColorTex"
+    ],
+    "Custom/Creature": [
+      "_MainTex"
+    ],
+    "Custom/Piece": [
+      "_MainTex"
+    ],
+    "Custom/StaticRock": [
+      "_MossTex"
+    ],
+    "Standard": [
+      "_MainTex"
+    ],
+    "Particles/Standard Surface2": [
+      "_MainTex"
+    ],
+    "Custom/Yggdrasil": [
+      "_MainTex"
+    ]
+  },
+  "materialTextures": {
+    "swamptree1_log": [
+      "_MossTex"
+    ],
+    "swamptree2_log": [
+      "_MossTex"
+    ],
+    "swamptree1_bark": [
+      "_MossTex"
+    ],
+    "swamptree2_bark": [
+      "_MossTex"
+    ],
+    "swamptree_stump": [
+      "_MossTex"
+    ],
+    "beech_bark": [
+      "_MossTex"
+    ],
+    "oak_bark": [
+      "_MossTex"
+    ],
+    "yggdrasil_branch": [
+      "_MossTex"
+    ],
+    "Vines_Mat": [],
+    "Grausten_RoofSlab_mat": [],
+    "Vine_Sapling_ashlands_mat": [],
+    "Vines_ashlands_mat": []
+  },
+  "shaderIgnoreMaterial": {
+    "Custom/Vegetation": [
+      "bark",
+      "trunk",
+      "_wood",
+      "HildirFlowerGirland_",
+      "HildirTentCloth_",
+      "TraderTent_",
+      "VinesBranch_mat",
+      "VinesBranch_Ashlands_mat",
+      "BogWitchHutCurtains2_mat",
+      "BogWitchHutCurtains_mat"
+    ]
+  },
+  "shaderOnlyMaterial": {
+    "Custom/Piece": [
+      "straw",
+      "RoofShingles",
+      "beehive",
+      "Midsummerpole_mat",
+      "Pine_tree_xmas",
+      "ReworkedValheim",
+      "shipyardNewCloth",
+      "M_Cloth_01",
+      "bcp_clay",
+      "Grausten_RoofSlab_mat"
+    ],
+    "Custom/Creature": [
+      "HildirsLox",
+      "lox",
+      "lox_calf",
+      "Draugr_Archer_mat",
+      "Draugr_mat",
+      "Draugr_elite_mat",
+      "Abomination_mat",
+      "greyling",
+      "greydwarf",
+      "greydwarf_elite",
+      "greydwarf_shaman",
+      "neck"
+    ],
+    "Standard": [
+      "beech_particle",
+      "birch_particle",
+      "branch_particle",
+      "branch_dead_particle",
+      "oak_particle",
+      "shoot_leaf_particle"
+    ],
+    "Particles/Standard Surface2": [
+      "shrub2_leafparticle",
+      "shrub2_leafparticle_heath",
+      "leaf_en"
+    ]
+  },
+  "effectPrefab": [
+    "lox_ragdoll",
+    "loxcalf_ragdoll",
+    "Draugr_elite_ragdoll",
+    "Draugr_ragdoll",
+    "Draugr_ranged_ragdoll",
+    "Abomination_ragdoll",
+    "Greydwarf_ragdoll",
+    "Greydwarf_elite_ragdoll",
+    "Greydwarf_Shaman_ragdoll",
+    "Greyling_ragdoll",
+    "vfx_beech_cut",
+    "vfx_oak_cut",
+    "vfx_yggashoot_cut",
+    "vfx_bush_destroyed",
+    "vfx_bush_destroyed_heath",
+    "vfx_bush_leaf_puff",
+    "vfx_bush_leaf_puff_heath",
+    "vfx_bush2_e_hit",
+    "vfx_bush2_en_destroyed"
+  ],
+  "creaturePrefab": [
+    "Lox",
+    "Lox_Calf",
+    "Draugr",
+    "Draugr_Elite",
+    "Draugr_Ranged",
+    "Abomination",
+    "Greydwarf",
+    "Greydwarf_Elite",
+    "Greydwarf_Shaman",
+    "Greyling"
+  ],
+  "piecePrefab": [
+    "vines",
+    "piece_beehive",
+    "piece_maypole",
+    "piece_xmastree",
+    "VineAsh",
+    "VineAsh_sapling"
+  ],
+  "piecePrefabPartialName": [
+    "wood_roof",
+    "copper_roof",
+    "goblin_roof",
+    "roof_wood_",
+    "roof_darkwood_",
+    "elvenwood_roof",
+    "BFP_FineWoodRoof",
+    "cloth_roof",
+    "BFP_ClayRoof",
+    "piece_grausten_roof",
+    "VineAsh"
+  ],
+  "ignorePrefab": [
+    "Rock_destructible_test",
+    "HugeRoot1",
+    "Hildir_cave",
+    "PineTree_log",
+    "PineTree_log_half",
+    "MountainGrave01",
+    "PineTree_log_halfOLD",
+    "PineTree_logOLD",
+    "sapling_magecap",
+    "FirTree_log",
+    "FirTree_log_half",
+    "Hildir_crypt",
+    "MountainGraveStone01",
+    "crypt_skeleton_chest",
+    "dungeon_sunkencrypt_irongate_rusty",
+    "stonechest",
+    "SunkenKit_int_towerwall",
+    "SunkenKit_int_towerwall_LOD",
+    "marker01",
+    "marker02",
+    "TheHive",
+    "StoneVillage2",
+    "VoltureNest",
+    "CharredStone_Spawner",
+    "SulfurArch",
+    "FaderLocation",
+    "LeviathanLava",
+    "FernFiddleHeadAshlands",
+    "DevKitchen",
+    "DevDressingRoom",
+    "DevGarden",
+    "DevForge",
+    "rock4_ashlands_frac"
+  ],
+  "ignorePrefabPartialName": [
+    "Mistlands_GuardTower",
+    "WoodHouse",
+    "DevHouse",
+    "StoneTower",
+    "SunkenCrypt",
+    "MountainCave",
+    "Mistlands_Lighthouse",
+    "Mistlands_Viaduct",
+    "Mistlands_Dvergr",
+    "Mistlands_Statue",
+    "Mistlands_Excavation",
+    "Mistlands_Giant",
+    "Mistlands_Harbour",
+    "Mistlands_Mine",
+    "dvergrtown_",
+    "OLD_wood_roof",
+    "AbandonedLogCabin",
+    "DrakeNest",
+    "CharredRuins",
+    "MorgenHole",
+    "CharredTowerRuins",
+    "CharredRuins",
+    "CharredFortress",
+    "PlaceofMystery",
+    "DevWall",
+    "blackmarble_creep_slope",
+    "lavarock_",
+    "lavabomb_",
+    "FlametalRockstand",
+    "cliff_ashlands",
+    "AshlandsTree",
+    "AshlandsBush",
+    "AshlandsBranch",
+    "Ashlands_rock",
+    "instanced_ashlands_grass"
+  ]
+}
