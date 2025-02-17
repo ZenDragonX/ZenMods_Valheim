@@ -10,7 +10,7 @@ Best with these Valheim world modifiers enabled:
 
 ### More Information
 
-For more details about this package's capabilities please check out [ZENHEIM](https://thunderstore.io/c/valheim/p/ZenDragon/ZENHEIM/): A ready to play Modpack which includes this package bundled with a curated selection of community mods pre-configured for a spectacular immersive Valheim experience!
+For more details about this package's capabilities please check out [ZENHEIM](https://thunderstore.io/c/valheim/p/ZenDragon/ZENHEIM/) - A ready to play Modpack which includes this package bundled with a curated selection of community mods pre-configured for a spectacular immersive Valheim experience!
 
 ---
 #### Like My Mods? Donations Welcome
