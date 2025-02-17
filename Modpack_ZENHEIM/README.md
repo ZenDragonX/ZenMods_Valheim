@@ -1,8 +1,8 @@
 # ZENHEIM: Enhanced Valheim
 
-Built from the ground up with a core set of custom crafted ZenMods to ensure compatibility, reliability, and performance.
+Built from the ground up with a [CORE](https://thunderstore.io/c/valheim/p/ZenDragon/ZenModpack_CORE/) set of custom crafted ZenMods to ensure compatibility, reliability, and performance.
 
-A low-map experience unlike anything you have seen before.  Turn off your map via Valheim's World Modifiers and let the Cartography Table and Compass be your guide! Pins are tied to game world objects so no pin spam. The table itself is the map, you can not pan the view. Your own exploration radius is irrelevant.  Your compass also includes weather and time of day and integrates with the ship's HUD.  Think wisely, getting lost is part of the adventure!
+[The rules have changed](#new-game-rules) - A new low-map experience unlike anything you have seen before.  Turn off your map via Valheim's World Modifiers and let the Cartography Table and Compass be your guide! Think wisely, getting lost is part of the adventure!  
 
 Pre-configured, ready to play.
 
@@ -19,9 +19,10 @@ Pre-configured, ready to play.
 
 - Keep your fires lit!  Workbenches no longer protect against monster spawns, torches and fireplaces do.
 - Per player Boss Stones. Each player sees their own version of the Boss Stones depending on their own progression so you don't all have to play at the same time.
-- Single use door keys for increased challenge.
 - No wooden arrows, they are over-powered.
-- Low-map, use the Cartography Table and Compass to find your way.
+- Low-map, use the Cartography Table and Compass to find your way. The map visibility depends on the age of the table, not you. 
+- Map Pins must be crafted and applied to signs in the wild, you can not apply them from the table.
+- Ships and carts are automatically tracked.
 - Death penalty: Keep 2 randomly equipped items. No skill loss. Keep all the food in your belly.
 - Regenerate your stamina when standing still even when encumbered or swimming.
 - You can sleep in any bed even if you don't own it.
@@ -34,6 +35,7 @@ Pre-configured, ready to play.
 - Turrets can have 3 targets instead of 1.
 - Shield generators protect your fireplaces from the rain and snow.  
 - You can also eject the fuel and shut the shield down manually.
+- Keys can only be used once for increased challenge.
 - Candles can be refilled.
 
 ### QoL Improvements

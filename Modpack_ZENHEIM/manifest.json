@@ -1,6 +1,6 @@
 ﻿{
   "name": "ZENHEIM",
-  "description": "ZENHEIM: Enhanced Valheim",
+  "description": "Enhanced Valheim - A low-map experience unlike anything you have seen before. Unobtrusive UI. Clean, stylish, and unified. Optimized custom code. Full Gamepad Support",
   "version_number": "1.0.1",
   "website_url": "https://github.com/ZenDragonX/ZenMods_Valheim",
   "dependencies": [
