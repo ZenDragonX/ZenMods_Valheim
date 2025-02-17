@@ -1,21 +1,17 @@
 # ZENHEIM: Enhanced Valheim
 
+The rules have changed.  A new experience unlike anything you have seen before.  Turn off your map via Valheim's World Modifiers and let the Cartography Table and Compass be your guide! Think wisely, getting lost is part of the adventure!  
+
 Built from the ground up with a [CORE](https://thunderstore.io/c/valheim/p/ZenDragon/ZenModpack_CORE/) set of custom crafted ZenMods to ensure compatibility, reliability, and performance.
 
-[The rules have changed](#new-game-rules) - A new low-map experience unlike anything you have seen before.  Turn off your map via Valheim's World Modifiers and let the Cartography Table and Compass be your guide! Think wisely, getting lost is part of the adventure!  
+Full gamepad support. Pre-configured, ready to play! 
 
-Pre-configured, ready to play.
-
-### Best With These Valheim Game World Modifiers Enabled
+Best with these Valheim World Modifiers enabled:
 - NoMap - Getting lost is fun!
 - PlayerEvents aka Player Based Events / Raids
 - Fire (optional, if you want hard mode!)
 
-<img alt="Map Example" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/screenshots/ZenMap/maxrange.jpg?raw=true" height="300">
-
-<img alt="Compass" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/screenshots/ZenCompass/land.jpg?raw=true" height="300">
-
-### New Game Rules
+## New Game Rules
 
 - Keep your fires lit!  Workbenches no longer protect against monster spawns, torches and fireplaces do.
 - Per player Boss Stones. Each player sees their own version of the Boss Stones depending on their own progression so you don't all have to play at the same time.
@@ -38,7 +34,13 @@ Pre-configured, ready to play.
 - Keys can only be used once for increased challenge.
 - Candles can be refilled.
 
-### QoL Improvements
+
+<img alt="Map Example" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/screenshots/ZenMap/maxrange.jpg?raw=true" height="300">
+
+<img alt="Compass" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/screenshots/ZenCompass/land.jpg?raw=true" height="300">
+
+
+## QoL Improvements
 
 - Target Lock! works on gamepad and keyboard
 - Separate Jump / Dodge buttons
@@ -62,7 +64,7 @@ Pre-configured, ready to play.
 
 <img alt="HoverItem Branch" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/screenshots/ZenHoverItem/itemdrop.jpg?raw=true" height="200">
 
-### Notice
+## Notice
 
 By design there are no crafting from containers or other forms of automation because they accelerate the gameplay loop. Instead, you have a robust set of new features for hoard management via signs and redecoration that fix a lot of the painful issues of finding what you are looking for.  Just point at a sign and assign items to it to view the quantity nearby.  Tap a sign to locate the item in a container.  Middle-click an item in your inventory to find it in nearby containers.
 
