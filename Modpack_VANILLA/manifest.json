@@ -1,0 +1,19 @@
+﻿{
+  "name": "ZenModpack_VANILLA",
+  "description": "VANILLA - Client only subset of ZenMods selected to provide amazing QoL improvements on Vanilla servers!  Full gamepad support.",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/ZenDragonX/ZenMods_Valheim/wiki",
+  "dependencies": [
+		"denikson-BepInExPack_Valheim-5.4.2202",
+		"ValheimModding-Jotunn-2.23.2",
+        "ZenDragon-ZenPath-0.1.5",
+        "ZenDragon-ZenSign-1.0.5",
+        "ZenDragon-ZenBeehive-0.1.4",
+        "ZenDragon-ZenCompass-1.0.11",
+        "ZenDragon-ZenUI-0.1.2",
+        "ZenDragon-ZenCombat-0.1.14",
+        "ZenDragon-ZenTargeting-0.3.3",
+        "ZenDragon-ZenConstruction-0.1.0",
+        "ZenDragon-ZenHoverItem-0.1.4"
+	]
+}
