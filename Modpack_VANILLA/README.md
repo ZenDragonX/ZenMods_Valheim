@@ -15,7 +15,7 @@ Best with these Valheim world modifiers enabled:
 
 For more details about this package's capabilities please check out [ZENHEIM - Vanilla](https://thunderstore.io/c/valheim/p/ZenDragon/ZENHEIM_VANILLA/) - A ready to play QoL Modpack designed for vanilla servers which includes this package bundled with a curated selection of community mods pre-configured for a spectacular immersive Valheim experience!
 
-If you want to run a modded server with robust server side capabilities check out the full experience of [ZENHEIM](https://thunderstore.io/c/valheim/p/ZenDragon/ZENHEIM)!
+Or, if you want the full experience in single player mode, or on a modded server then check out the full capabilities of [ZENHEIM](https://thunderstore.io/c/valheim/p/ZenDragon/ZENHEIM)!
 
 ---
 #### Like My Mods? Donations Welcome
