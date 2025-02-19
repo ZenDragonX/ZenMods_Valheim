@@ -1,7 +1,7 @@
 ﻿{
   "name": "ZENHEIM_Vanilla",
-  "description": "Enhanced Valheim for Vanilla Server QoL - The rules have changed. Optimized custom code. Full gamepad support.",
-  "version_number": "1.0.0",
+  "description": "Enhanced Valheim for vanilla server QoL - The rules have changed. Optimized custom code. Full gamepad support.",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/ZenDragonX/ZenMods_Valheim/wiki",
   "dependencies": [
 	  "denikson-BepInExPack_Valheim-5.4.2202",
