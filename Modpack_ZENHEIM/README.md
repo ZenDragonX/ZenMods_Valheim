@@ -64,7 +64,7 @@ Best with these Valheim World Modifiers enabled:
 
 <img alt="HoverItem Branch" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/screenshots/ZenHoverItem/itemdrop.jpg?raw=true" height="200">
 
-## Notice
+## Work Together
 
 By design there are no crafting from containers or other forms of automation because they accelerate the gameplay loop. Instead, you have a robust set of new features for hoard management via signs and redecoration that fix a lot of the painful issues of finding what you are looking for.  Just point at a sign and assign items to it to view the quantity nearby.  Tap a sign to locate the item in a container.  Middle-click an item in your inventory to find it in nearby containers.
 
