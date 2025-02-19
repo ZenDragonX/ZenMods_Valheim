@@ -15,6 +15,8 @@ Best with these Valheim World Modifiers enabled:
 - NoMap - Getting lost is fun!
 - Fire (optional, if you want hard mode!)
 
+### Compass
+
 <img alt="Compass" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/screenshots/ZenCompass/land.jpg?raw=true" height="300">
 
 ## QoL Improvements
@@ -28,7 +30,7 @@ Best with these Valheim World Modifiers enabled:
 - Find things in chests by tapping a sign that has an item assigned.
 - Find fuel easily, just tap a fireplace and nearby containers with wood highlight if you don't have it in your inventory.
 - Automatically equip your shield or lantern when using a 1h weapon.
-- Beehives behave like containers for quick easy access.
+- ArmorStands, ItemStands, and Beehives behave like containers for easy access.  Swap your gear with a single button press!
 - No need to fumble with 1-8 hotkeys, just select items directly from your inventory to assign to objects.
 - Dedicated quick select repair button when hammer is equipped.
 - Unobtrusive UI. Fewer numbers, more pictures. Clean, stylish, and unified.
@@ -37,6 +39,15 @@ Best with these Valheim World Modifiers enabled:
 - First person mode.
 - Ctrl-Z undo remove piece.
 - Full Gamepad Support.
+
+### Armor Stands & Item Stands as Container
+
+<img alt="Screenshot Armor Stand" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/screenshots/ZenItemStands/armorstand.jpg?raw=true" height="230"/>
+
+<img alt="Screenshot Item Stand" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/screenshots/ZenItemStands/itemstand.jpg?raw=true" height="230"/>
+
+
+### Hover Icons
 
 <img alt="HoverItem Chest" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/screenshots/ZenHoverItem/container.jpg?raw=true" height="200">
 
