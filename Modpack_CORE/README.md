@@ -13,8 +13,8 @@ Best with these Valheim world modifiers enabled:
 For more details about this package's capabilities please check out [ZENHEIM](https://thunderstore.io/c/valheim/p/ZenDragon/ZENHEIM/) - A ready to play Modpack which includes this package bundled with a curated selection of community mods pre-configured for a spectacular immersive Valheim experience!
 
 ---
-#### Like My Mods? Donations Welcome
+### Like My Mods? Donations Welcome
 
-`Bitcoin: bc1q34lrc82dp73jhv9ylefz0gvmeqfn96e938p4pf`
+`Bitcoin`
 
 <img alt="Donation QR" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/BTC_QR.png?raw=true" width=180>
