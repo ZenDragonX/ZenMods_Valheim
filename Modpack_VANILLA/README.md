@@ -18,8 +18,8 @@ For more details about this package's capabilities please check out [ZENHEIM - V
 Or, if you want the full experience in single player mode, or on a modded server then check out the full capabilities of [ZENHEIM](https://thunderstore.io/c/valheim/p/ZenDragon/ZENHEIM)!
 
 ---
-#### Like My Mods? Donations Welcome
+### Like My Mods? Donations Welcome
 
-`Bitcoin: bc1q34lrc82dp73jhv9ylefz0gvmeqfn96e938p4pf`
+`Bitcoin`
 
 <img alt="Donation QR" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/BTC_QR.png?raw=true" width=180>
