@@ -21,7 +21,8 @@ Best with these Valheim World Modifiers enabled:
 
 ## QoL Improvements
 
-- Target Lock! works on gamepad and keyboard
+- Move chests without destroying them.
+- Target Lock - Works with gamepad or keyboard
 - Separate Jump / Dodge buttons
 - Fight on slopes
 - Softer damage screen flash
