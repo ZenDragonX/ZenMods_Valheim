@@ -56,6 +56,7 @@ Best with these Valheim World Modifiers enabled:
 - No need to fumble with 1-8 hotkeys, just select items directly from your inventory to assign to objects.
 - Dedicated quick select repair button when hammer is equipped.
 - Unobtrusive UI. Fewer numbers, more pictures. Clean, stylish, and unified.
+- Autopickup toggle button extended with a 3rd option: Only pickup what is already in your inventory.
 - Full Gamepad Support
 
 <img alt="HoverItem Chest" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/screenshots/ZenHoverItem/container.jpg?raw=true" height="200">
