@@ -1,0 +1,13 @@
+﻿{
+  "name": "ZenModpack_DEV",
+  "description": "Collection of tools used for quick setup of development and debugging environment.",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/ZenDragonX/ZenMods_Valheim/wiki",
+  "dependencies": [
+		"denikson-BepInExPack_Valheim-5.4.2202",
+		"ValheimModding-Jotunn-2.23.2",
+		"MSchmoecker-VNEI-0.15.6",
+		"JereKuusela-Server_devcommands-1.88.0",
+		"ValheimModding-UnityExplorer-4.9.0"
+	]
+}
