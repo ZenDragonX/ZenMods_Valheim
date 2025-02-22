@@ -1,4 +1,4 @@
-# ZenModpack: Core
+# CORE
 
 This Modpack originated from my desire for a custom high performance Valheim experience. I wanted to avoid all the conflicts of bundling a bunch of mods together that may or may not work correctly with each other or have overlapping functionality because they were all written by different authors with different ideas and UI paradigms.
 
@@ -7,6 +7,18 @@ Therefor all ZenMods were written and designed to work together seamlessly.  Whe
 Best with these Valheim world modifiers enabled:
 - NoMap - Getting lost is fun!
 - PlayerEvents aka Player Based Events / Raids
+
+## Small Sample...
+
+- `ZenRedecorate`: Move chests around without destroying them.
+- `ZenSign`: Assign an item to a sign to see the amount available in nearby containers.
+- `ZenUseItem`: Assign items to signs directly from your inventory without using 1-8 hotkey.
+- `ZenHoverItem`: Show icons for items such as container contents without opening them plus many more things.
+- `ZenItemStand`: Include Armor Stands and Item Stands in the sign's calculations and make them behave like containers.
+- `ZenBeehive`: Include Beehives in the sign's calculations and make them behave like containers.
+- `ZenRecycle`: Obliterators return a randomly selected ingredient of the item.
+- `ZenBreeding`: Prevent exponential population growth by sterilizing offspring.
+- And much more...
 
 ### More Information
 

@@ -4,11 +4,11 @@ Use this area to submit any feedback or bug reports via the [Issues](https://git
 
 If you would like to discuss the mods or just say hi come find me on [Discord](https://discord.gg/fw968xhV).
 
-## More Information
+## Improve Your Experience
 
-### [CORE - Experience](https://thunderstore.io/c/valheim/p/ZenDragon/ZenModpack_CORE/)
+### [CORE MODS](https://thunderstore.io/c/valheim/p/ZenDragon/ZenModpack_CORE/)
 
-The full collection of all ZenMods:
+The full collection of all Zen MODS:
 
 - Radically improved QoL
 - Incredible performance

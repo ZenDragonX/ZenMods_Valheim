@@ -1,8 +1,8 @@
-## More Information
+## Improve Your Experience
 
-### [CORE - Experience](https://thunderstore.io/c/valheim/p/ZenDragon/ZenModpack_CORE/)
+### [CORE MODS](https://thunderstore.io/c/valheim/p/ZenDragon/ZenModpack_CORE/)
 
-The full collection of all ZenMods:
+The full collection of all Zen MODS:
 
 - Radically improved QoL
 - Incredible performance
