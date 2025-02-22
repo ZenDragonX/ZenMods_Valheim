@@ -1,9 +1,17 @@
 # ZenModpack - DEV
 
-A collection of common tools I use for development and debugging.
+A collection of common tools I use for development and debugging. This pack is for quick setup of new profiles ready for dev work.
 
-This pack is for quick setup of new profiles ready for dev work.
+## More Information
 
-### More Information
+### [CORE - Experience](https://thunderstore.io/c/valheim/p/ZenDragon/ZenModpack_CORE/)
 
-For more details about all my mods please check out [CORE](https://thunderstore.io/c/valheim/p/ZenDragon/ZenModpack_CORE) - The full collection of all ZenMods: Improved QoL, incredible performance, and pre-configured for a spectacular immersive Valheim experience!
+The full collection of all ZenMods:
+
+- Radically improved QoL
+- Incredible performance
+- Pre-configured
+- 100% Gamepad support
+- Spectacularly immersive
+
+Enjoy!
