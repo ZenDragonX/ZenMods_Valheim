@@ -19,7 +19,7 @@ Best with these Valheim World Modifiers enabled:
 - Low-map, use the Cartography Table and Compass to find your way. The map visibility depends on the age of the table, not you. 
 - Map Pins must be crafted and applied to signs in the wild, you can not apply them from the table.
 - Ships and carts are automatically tracked.
-- Death penalty: Keep 2 randomly equipped items. No skill loss. Keep all the food in your belly.
+- Death penalty: Keep 1 randomly equipped item. No skill loss (if you disable it on the server). Keep all the food in your belly.
 - Regenerate your stamina when standing still even when encumbered or swimming.
 - You can sleep in any bed even if you don't own it.
 - Better comfort levels improve your healing rate.
