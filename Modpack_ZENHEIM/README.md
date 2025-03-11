@@ -76,6 +76,6 @@ By design there are no crafting from containers or other forms of automation bec
 ---
 #### Like My Mods? Donations Welcome
 
-`Bitcoin: bc1q34lrc82dp73jhv9ylefz0gvmeqfn96e938p4pf`
+`Bitcoin`
 
 <img alt="Donation QR" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/BTC_QR.png?raw=true" width=180>
