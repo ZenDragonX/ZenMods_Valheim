@@ -1,7 +1,7 @@
 ﻿{
   "name": "ZenModpack_DEV",
   "description": "Collection of tools useful for quick setup of development environment.",
-  "version_number": "1.0.3",
+  "version_number": "1.0.4",
   "website_url": "https://github.com/ZenDragonX/ZenMods_Valheim/wiki",
   "dependencies": [
 		"denikson-BepInExPack_Valheim-5.4.2202",
@@ -9,6 +9,7 @@
 		"ValheimModding-UnityExplorer-4.9.0",
 		"JereKuusela-Server_devcommands-1.88.0",
 		"JereKuusela-Upgrade_World-1.68.0",
-		"MSchmoecker-VNEI-0.15.6"
+		"MSchmoecker-VNEI-0.15.6",
+		"ComfyMods-BetterZeeLog-1.12.0"
 	]
 }

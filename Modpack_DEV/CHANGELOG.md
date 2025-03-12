@@ -1,3 +1,6 @@
+v1.0.4
+- add BetterZLog
+
 v1.0.3
 - add Upgrade World to the pack
 
