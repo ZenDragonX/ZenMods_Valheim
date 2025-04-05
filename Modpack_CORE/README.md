@@ -10,14 +10,14 @@ Best with these Valheim world modifiers enabled:
 
 ## Small Sample...
 
-- `ZenRedecorate`: Move chests around without destroying them.
+- `ZenRedecorate`: Move chests and other furniture around without destroying them.
 - `ZenSign`: Assign an item to a sign to see the amount available in nearby containers.
-- `ZenUseItem`: Assign items to signs directly from your inventory without using 1-8 hotkey.
+- `ZenUseItem`: Assign items directly from your inventory without using 1-8 hotkey.
 - `ZenHoverItem`: Show icons for items such as container contents without opening them plus many more things.
-- `ZenItemStand`: Include Armor Stands and Item Stands in the sign's calculations and make them behave like containers.
-- `ZenBeehive`: Include Beehives in the sign's calculations and make them behave like containers.
-- `ZenRecycle`: Obliterators return a randomly selected ingredient of the item.
-- `ZenBreeding`: Prevent exponential population growth by sterilizing offspring.
+- `ZenItemStand`: Open Armor Stands and Item Stands like containers.
+- `ZenBeehive`: Open Beehives like containers.
+- `ZenRecycle`: Obliterators return a randomly selected ingredient of the item, or smash trash on the ground anywhere.
+- `ZenBreeding`: Prevent cpu overload by blocking exponential population growth of tames by sterilizing offspring.
 - And much more...
 
 ### More Information
