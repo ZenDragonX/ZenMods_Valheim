@@ -1,19 +1,19 @@
 ﻿{
   "name": "ZENHEIM_Vanilla",
   "description": "Enhanced Valheim for vanilla server QoL - The rules have changed. Optimized custom code. Full gamepad support.",
-  "version_number": "1.0.5",
+  "version_number": "1.1.0",
   "website_url": "https://github.com/ZenDragonX/ZenMods_Valheim/wiki",
   "dependencies": [
-	  "Azumatt-BiomeObserver-1.0.5",
-	  "Azumatt-FirstPersonMode-1.3.8",
-	  "Azumatt-StatusEffectFilter-1.0.2",
-	  "Goldenrevolver-Sorted_Menus_Cooking_Crafting_and_Skills_Menu-1.3.4",
-	  "Goldenrevolver-Teleport_Instantly_Updates_Weather_And_Removes_Wet_Debuff-1.0.3",
-	  "MSchmoecker-VNEI-0.15.6",
-	  "Neobotics-UnRemove-0.1.8",
-	  "Smoothbrain-CombatOwner-1.0.0",
-	  "Smoothbrain-StartupAccelerator-1.0.3",
-	  "ZenDragon-AugaLite-1.0.1",
-	  "ZenDragon-ZenModpack_VANILLA-1.0.5"
+		"Azumatt-BiomeObserver-1.0.5",
+		"Azumatt-FirstPersonMode-1.3.9",
+		"Azumatt-StatusEffectFilter-1.0.2",
+		"Goldenrevolver-Sorted_Menus_Cooking_Crafting_and_Skills_Menu-1.3.4",
+		"Goldenrevolver-Teleport_Instantly_Updates_Weather_And_Removes_Wet_Debuff-1.0.3",
+		"MSchmoecker-VNEI-0.16.0",
+		"Neobotics-UnRemove-0.1.8",
+		"Smoothbrain-CombatOwner-1.0.0",
+		"Smoothbrain-StartupAccelerator-1.0.3",
+		"ZenDragon-AugaLite-1.0.4",
+		"ZenDragon-ZenModpack_VANILLA-1.1.0"
 	]
 }
