@@ -1,3 +1,6 @@
+v1.1.1
+- remove CombatOwner from modpack due to reports that it was causing hitreg errors.
+
 v1.1.0
 - updated all dependencies to latest version.
 

@@ -1,7 +1,7 @@
 ﻿{
   "name": "ZENHEIM_Vanilla",
   "description": "Enhanced Valheim for vanilla server QoL - The rules have changed. Optimized custom code. Full gamepad support.",
-  "version_number": "1.1.0",
+  "version_number": "1.1.1",
   "website_url": "https://github.com/ZenDragonX/ZenMods_Valheim/wiki",
   "dependencies": [
 		"Azumatt-BiomeObserver-1.0.5",
@@ -11,7 +11,6 @@
 		"Goldenrevolver-Teleport_Instantly_Updates_Weather_And_Removes_Wet_Debuff-1.0.3",
 		"MSchmoecker-VNEI-0.16.0",
 		"Neobotics-UnRemove-0.1.8",
-		"Smoothbrain-CombatOwner-1.0.0",
 		"Smoothbrain-StartupAccelerator-1.0.3",
 		"ZenDragon-AugaLite-1.0.4",
 		"ZenDragon-ZenModpack_VANILLA-1.1.0"

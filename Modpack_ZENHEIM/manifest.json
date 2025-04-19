@@ -1,7 +1,7 @@
 ﻿{
   "name": "ZENHEIM",
   "description": "Enhanced Valheim - The rules have changed. Optimized custom code. Full gamepad support.",
-  "version_number": "1.1.0",
+  "version_number": "1.1.1",
   "website_url": "https://github.com/ZenDragonX/ZenMods_Valheim/wiki",
   "dependencies": [
 		"Azumatt-BiomeObserver-1.0.5",
@@ -17,7 +17,6 @@
 		"MSchmoecker-MultiUserChest-0.6.1",
 		"Neobotics-UnRemove-0.1.8",
 		"shudnal-Seasons-1.5.3",
-		"Smoothbrain-CombatOwner-1.0.0",
 		"Smoothbrain-SmoothSave-1.0.5",
 		"Smoothbrain-StartupAccelerator-1.0.3",
 		"ZenDragon-AugaLite-1.0.4",
