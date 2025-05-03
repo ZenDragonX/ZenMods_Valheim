@@ -1,3 +1,6 @@
+v1.1.2
+- update readme to fix images not loading.
+
 v1.1.1
 - Remove CombatOwner from modpack due to reports that it was causing hitreg errors.
  

@@ -35,9 +35,9 @@ Best with these Valheim World Modifiers enabled:
 - Candles can be refilled.
 
 
-<img alt="Map Example" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/screenshots/ZenMap/maxrange.jpg?raw=true" height="300">
+<img alt="Map Example" src="https://raw.githubusercontent.com/ZenDragonX/ZenMods_Valheim/refs/heads/main/screenshots/ZenMap/maxrange.jpg" height="300">
 
-<img alt="Compass" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/screenshots/ZenCompass/land.jpg?raw=true" height="300">
+<img alt="Compass" src="https://raw.githubusercontent.com/ZenDragonX/ZenMods_Valheim/refs/heads/main/screenshots/ZenCompass/land.jpg" height="300">
 
 
 ## QoL Improvements
@@ -59,11 +59,11 @@ Best with these Valheim World Modifiers enabled:
 - Autopickup toggle button extended with a 3rd option: Only pickup what is already in your inventory.
 - Full Gamepad Support
 
-<img alt="HoverItem Chest" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/screenshots/ZenHoverItem/container.jpg?raw=true" height="200">
+<img alt="HoverItem Chest" src="https://raw.githubusercontent.com/ZenDragonX/ZenMods_Valheim/refs/heads/main/screenshots/ZenHoverItem/container.jpg" height="200">
 
-<img alt="HoverItem Chest" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/screenshots/ZenHoverItem/fuelremaining.jpg?raw=true" height="200">
+<img alt="HoverItem Chest" src="https://raw.githubusercontent.com/ZenDragonX/ZenMods_Valheim/refs/heads/main/screenshots/ZenHoverItem/fuelremaining.jpg" height="200">
 
-<img alt="HoverItem Branch" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/screenshots/ZenHoverItem/itemdrop.jpg?raw=true" height="200">
+<img alt="HoverItem Branch" src="https://raw.githubusercontent.com/ZenDragonX/ZenMods_Valheim/refs/heads/main/screenshots/ZenHoverItem/itemdrop.jpg" height="200">
 
 ## Work Together
 
@@ -71,11 +71,11 @@ By design there are no crafting from containers or other forms of automation bec
 
 [Learn More...](https://thunderstore.io/c/valheim/p/ZenDragon/ZenSign/)
 
-![Example Hoard](https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/screenshots/ZenSign/example.jpg?raw=true)
+![Example Hoard](https://raw.githubusercontent.com/ZenDragonX/ZenMods_Valheim/refs/heads/main/screenshots/ZenSign/example.jpg)
 
 ---
 #### Like My Mods? Donations Welcome
 
 `Bitcoin`
 
-<img alt="Donation QR" src="https://github.com/ZenDragonX/ZenMods_Valheim/blob/main/BTC_QR.png?raw=true" width=180>
+<img alt="Donation QR" src="https://raw.githubusercontent.com/ZenDragonX/ZenMods_Valheim/refs/heads/main/BTC_QR.png" width=180>

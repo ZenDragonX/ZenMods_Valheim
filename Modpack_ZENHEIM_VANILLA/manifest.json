@@ -1,7 +1,7 @@
 ﻿{
   "name": "ZENHEIM_Vanilla",
   "description": "Enhanced Valheim for vanilla server QoL - The rules have changed. Optimized custom code. Full gamepad support.",
-  "version_number": "1.1.1",
+  "version_number": "1.1.2",
   "website_url": "https://github.com/ZenDragonX/ZenMods_Valheim/wiki",
   "dependencies": [
 		"Azumatt-BiomeObserver-1.0.5",
