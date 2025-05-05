@@ -1,3 +1,6 @@
+v1.1.4
+- removed torch as source of warmth in winter and fall.
+
 v1.1.3
 - removed BiomeObserver from the modpack because ZenUI v0.2.5 includes similar functionalty that is less intrusive.
 

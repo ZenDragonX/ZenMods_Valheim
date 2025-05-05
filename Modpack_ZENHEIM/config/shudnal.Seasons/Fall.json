@@ -1,7 +1,7 @@
 {
   "daysInSeason": 10,
   "nightLength": 30,
-  "torchAsFiresource": true,
+  "torchAsFiresource": false, // remove protection, build a fire
   "torchDurabilityDrain": 0.1,
   "plantsGrowthMultiplier": 0.5,
   "beehiveProductionMultiplier": 1.5,
