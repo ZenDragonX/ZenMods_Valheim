@@ -1,3 +1,6 @@
+v1.1.5
+- removed the mod "Goldenrevolver - Sorted Menus Cooking Crafting and Skills Menu" because ZenUI now handles that functionality.
+
 v1.1.4
 - removed torch as source of warmth in winter and fall.
 

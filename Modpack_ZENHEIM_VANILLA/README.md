@@ -21,6 +21,8 @@ Best with these Valheim World Modifiers enabled:
 
 ## QoL Improvements
 
+<img alt="Compass" align="right" src="https://raw.githubusercontent.com/ZenDragonX/ZenMods_Valheim/refs/heads/main/screenshots/ZenUI/crafting.jpg" height="300">
+
 - Move chests without destroying them.
 - Target Lock - Works with gamepad or keyboard
 - Separate Jump / Dodge buttons
@@ -33,10 +35,10 @@ Best with these Valheim World Modifiers enabled:
 - Automatically equip your shield or lantern when using a 1h weapon.
 - ArmorStands, ItemStands, and Beehives behave like containers for easy access.  Swap your gear with a single button press!
 - No need to fumble with 1-8 hotkeys, just select items directly from your inventory to assign to objects.
-- Dedicated quick select repair button when hammer is equipped.
+- Dedicated build button and press to hold when hammer is equipped for quick select repair.
 - Unobtrusive UI. Fewer numbers, more pictures. Clean, stylish, and unified.
+- Crafting menu improvements
 - Built in index of every item you have discovered.
-- Sorted menus
 - First person mode.
 - Ctrl-Z undo remove piece.
 - Full Gamepad Support.

@@ -31,7 +31,7 @@ Best with these Valheim World Modifiers enabled:
 - Turrets can have 3 targets instead of 1.
 - Shield generators protect your fireplaces from the rain and snow.  
 - You can also eject the fuel and shut the shield down manually.
-- Keys can only be used once for increased challenge.
+- Keys have limited durability and can be upgraded and repaired.
 - Candles can be refilled.
 
 
@@ -41,6 +41,8 @@ Best with these Valheim World Modifiers enabled:
 
 
 ## QoL Improvements
+
+<img alt="Crafting" align="right" src="https://raw.githubusercontent.com/ZenDragonX/ZenMods_Valheim/refs/heads/main/screenshots/ZenUI/crafting.jpg" height=300>
 
 - Target Lock! works on gamepad and keyboard
 - Separate Jump / Dodge buttons
@@ -61,9 +63,9 @@ Best with these Valheim World Modifiers enabled:
 
 <img alt="HoverItem Chest" src="https://raw.githubusercontent.com/ZenDragonX/ZenMods_Valheim/refs/heads/main/screenshots/ZenHoverItem/container.jpg" height="200">
 
-<img alt="HoverItem Chest" src="https://raw.githubusercontent.com/ZenDragonX/ZenMods_Valheim/refs/heads/main/screenshots/ZenHoverItem/fuelremaining.jpg" height="200">
+<img alt="HoverItem Fuel" src="https://raw.githubusercontent.com/ZenDragonX/ZenMods_Valheim/refs/heads/main/screenshots/ZenHoverItem/fuelremaining.jpg" height="200">
 
-<img alt="HoverItem Branch" src="https://raw.githubusercontent.com/ZenDragonX/ZenMods_Valheim/refs/heads/main/screenshots/ZenHoverItem/itemdrop.jpg" height="200">
+<img alt="HoverItem ItemDrop" src="https://raw.githubusercontent.com/ZenDragonX/ZenMods_Valheim/refs/heads/main/screenshots/ZenHoverItem/itemdrop.jpg" height="200">
 
 ## Work Together
 
