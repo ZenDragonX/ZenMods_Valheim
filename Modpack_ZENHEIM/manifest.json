@@ -1,7 +1,7 @@
 ﻿{
   "name": "ZENHEIM",
   "description": "Enhanced Valheim - The rules have changed. Optimized custom code. Full gamepad support.",
-  "version_number": "1.1.5",
+  "version_number": "1.1.6",
   "website_url": "https://github.com/ZenDragonX/ZenMods_Valheim/wiki",
   "dependencies": [
 		"Azumatt-FirstPersonMode-1.3.9",
@@ -16,7 +16,6 @@
 		"Neobotics-UnRemove-0.1.8",
 		"shudnal-Seasons-1.5.3",
 		"Smoothbrain-SmoothSave-1.0.5",
-		"Smoothbrain-StartupAccelerator-1.0.3",
 		"ZenDragon-AugaLite-1.0.4",
 		"ZenDragon-ZenModpack_CORE-1.1.0"
 	]

@@ -1,3 +1,6 @@
+v1.1.6
+- removed "Startup Accelerator" from the modpack due to possible localization issue.  If you have already installed this modpack before this version you will need to manually remove "Startup Accelerator"
+
 v1.1.5
 - removed the mod "Goldenrevolver - Sorted Menus Cooking Crafting and Skills Menu" because ZenUI now handles that functionality.
 
