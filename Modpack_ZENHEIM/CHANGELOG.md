@@ -1,3 +1,6 @@
+v1.1.7
+- added Configuration Manager to package for easy setup.
+
 v1.1.6
 - removed "Startup Accelerator" from the modpack due to possible localization issue.  If you have already installed this modpack before this version you will need to manually remove "Startup Accelerator"
 

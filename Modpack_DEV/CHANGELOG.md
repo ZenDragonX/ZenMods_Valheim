@@ -1,3 +1,6 @@
+v1.0.5
+- add Configuration Manager
+
 v1.0.4
 - add BetterZLog
 
