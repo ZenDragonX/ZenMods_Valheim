@@ -1,3 +1,6 @@
+v1.1.8
+- update description
+
 v1.1.7
 - added Configuration Manager to package for easy setup.
 
