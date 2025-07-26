@@ -1,3 +1,6 @@
+v1.1.2
+- add ZenDistributor
+
 v1.1.0
 - updated all ZenMod versions to match the introduciton of ZenMod.Lib
 
