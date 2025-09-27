@@ -1,3 +1,6 @@
+v1.1.9
+- removed loyalspears because similar functionality is now built into ZenCombat
+
 v1.1.8
 - updated description
 

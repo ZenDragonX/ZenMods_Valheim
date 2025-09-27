@@ -1,3 +1,6 @@
+v1.1.9
+- ZenCombat now has loyal spears built in
+
 v1.1.8
 - update description
 
