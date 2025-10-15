@@ -1,3 +1,6 @@
+v1.1.10
+- removed SmoothSave from the modpack, some reports of it causing corruption to world saves.
+
 v1.1.9
 - removed loyalspears because similar functionality is now built into ZenCombat
 

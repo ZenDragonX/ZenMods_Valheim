@@ -1,5 +1,7 @@
 # ZENHEIM: Enhanced Valheim
 
+> NOTE: Apply all updates after installing this modpack
+
 The rules have changed.  A new experience unlike anything you have seen before.  Turn off your map via Valheim's World Modifiers and let the Cartography Table and Compass be your guide! Think wisely, getting lost is part of the adventure!  
 
 Built from the ground up with a [CORE](https://thunderstore.io/c/valheim/p/ZenDragon/ZenModpack_CORE/) set of custom crafted ZenMods to ensure compatibility, reliability, and performance.
