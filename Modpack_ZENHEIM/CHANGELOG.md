@@ -1,3 +1,6 @@
+v1.1.11
+- removed the mod "StatusEffectFilter" as it has been marked as depreciated.  Functionality is now implemented in ZenUI
+ 
 v1.1.10
 - removed SmoothSave from the modpack, some reports of it causing corruption to world saves.
 

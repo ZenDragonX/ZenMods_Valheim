@@ -1,3 +1,6 @@
+v1.1.11
+- Removed "StatusEffectFilter" as it has been marked as depreciated.  Functionality now implemented in ZenUI instead.
+
 v1.1.9
 - ZenCombat now has loyal spears built in
 
