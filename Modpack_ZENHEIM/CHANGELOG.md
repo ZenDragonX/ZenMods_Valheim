@@ -1,3 +1,6 @@
+v1.1.13
+- removed "Server devcommands" from modpack.  Admins can add it manually if needed.
+
 v1.1.12
 - added link for instructions to connect to the live server showcase.
 

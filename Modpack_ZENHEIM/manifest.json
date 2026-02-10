@@ -1,12 +1,11 @@
 ﻿{
   "name": "ZENHEIM",
   "description": "Enhanced Valheim - The rules have changed. Improved immersion. Multiplayer or singleplayer balanced gameplay. Outstanding QoL enhancements. Tightly optimized code. Full gamepad support.",
-  "version_number": "1.1.12",
+  "version_number": "1.1.13",
   "website_url": "https://github.com/ZenDragonX/ZenMods_Valheim/wiki",
   "dependencies": [
 		"Azumatt-FirstPersonMode-1.3.9",
 		"Goldenrevolver-Teleport_Instantly_Updates_Weather_And_Removes_Wet_Debuff-1.0.3",
-		"JereKuusela-Server_devcommands-1.93.0",
 		"JereKuusela-Smoke_Collision-1.9.0",
 		"JereKuusela-Projectile_Collision-1.7.0",
 		"MSchmoecker-VNEI-0.16.0",
