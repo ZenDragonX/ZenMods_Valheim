@@ -13,6 +13,12 @@ Best with these Valheim World Modifiers enabled:
 - PlayerEvents aka Player Based Events / Raids
 - Fire (optional, if you want hard mode!)
 
+## Live Showcase
+
+- Hosted server showcasing the entire modpack so that you can come try it out and see how it all fits together.
+- Ready to Play!
+- How to Connect: [Login Instructions](https://discord.com/channels/1339576737457246258/1470714778128220291)
+
 ## New Game Rules
 
 - Keep your fires lit!  Workbenches no longer protect against monster spawns, torches and fireplaces do.

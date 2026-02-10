@@ -1,3 +1,6 @@
+v1.1.12
+- added link for instructions to connect to the live server showcase.
+
 v1.1.11
 - removed the mod "StatusEffectFilter" as it has been marked as depreciated.  Functionality is now implemented in ZenUI
  
