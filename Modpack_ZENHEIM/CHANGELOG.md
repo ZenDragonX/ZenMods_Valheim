@@ -1,3 +1,6 @@
+v1.1.14
+- fixed a config file default value
+
 v1.1.13
 - removed "Server devcommands" from modpack.  Admins can add it manually if needed.
 
