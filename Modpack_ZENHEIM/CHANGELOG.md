@@ -1,3 +1,6 @@
+v1.2.0
+- update Zenmodpack_CORE to v1.1.3 which inlcudes ZenLogin
+
 v1.1.14
 - fixed a config file default value
 

@@ -1,3 +1,6 @@
+v1.2.0
+- update ZenModpack_VANILLA to v1.1.3 which adds ZenLogin
+
 v1.1.11
 - Removed "StatusEffectFilter" as it has been marked as depreciated.  Functionality now implemented in ZenUI instead.
 

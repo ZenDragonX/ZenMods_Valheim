@@ -15,6 +15,17 @@ Best with these Valheim World Modifiers enabled:
 - NoMap - Getting lost is fun!
 - Fire (optional, if you want hard mode!)
 
+## Live Showcase
+
+- Hosted server showcasing the entire modpack so that you can come try it out and see how it all fits together.
+- Ready to Play!
+
+Connection Instructions:
+
+[Join](https://discord.gg/9n5QDTpDsk) Discord
+Then navigate to #zenheim-live > ZENHEIM - Connect
+
+
 ### Compass
 
 <img alt="Compass" src="https://raw.githubusercontent.com/ZenDragonX/ZenMods_Valheim/refs/heads/main/screenshots/ZenCompass/land.jpg" height="300">

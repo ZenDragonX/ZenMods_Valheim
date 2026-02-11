@@ -1,3 +1,6 @@
+v1.1.3
+- add ZenLogin
+
 v1.1.2
 - add ZenDistributor
 

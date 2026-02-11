@@ -17,7 +17,11 @@ Best with these Valheim World Modifiers enabled:
 
 - Hosted server showcasing the entire modpack so that you can come try it out and see how it all fits together.
 - Ready to Play!
-- How to Connect: [Login Instructions](https://discord.com/channels/1339576737457246258/1470714778128220291)
+
+Connection Instructions:
+
+Join Discord: [Join](https://discord.gg/9n5QDTpDsk)
+Then navigate to #zenheim-live > ZENHEIM - Connect
 
 ## New Game Rules
 

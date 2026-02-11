@@ -1,3 +1,6 @@
+v1.1.3
+- Add ZenLogin
+
 v1.1.2
 - Add ZenDistributor (forgot to update changelog for 1.1.1, no diff between 1.1.1 and 1.1.2)
 

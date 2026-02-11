@@ -1,7 +1,7 @@
 ﻿{
   "name": "ZenModpack_VANILLA",
   "description": "VANILLA - Subset of ZenModpack_CORE designed to provide amazing QoL improvements for clients connecting to vanilla servers!  Full gamepad support.",
-  "version_number": "1.1.2",
+  "version_number": "1.1.3",
   "website_url": "https://github.com/ZenDragonX/ZenMods_Valheim/wiki",
   "dependencies": [
 		"ZenDragon-ZenBeehive-0.2.1",
@@ -13,6 +13,7 @@
 		"ZenDragon-ZenDistributor-0.1.0",
 		"ZenDragon-ZenHoverItem-0.2.1",
 		"ZenDragon-ZenItemStands-0.5.1",
+		"ZenDragon-ZenLogin-1.0.0",
 		"ZenDragon-ZenPath-0.2.1",
 		"ZenDragon-ZenPlayer-0.2.1",
 		"ZenDragon-ZenRecycle-0.3.1",
