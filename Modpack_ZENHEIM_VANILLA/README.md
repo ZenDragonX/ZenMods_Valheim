@@ -17,13 +17,13 @@ Best with these Valheim World Modifiers enabled:
 
 ## Live Showcase
 
-- Hosted server showcasing the entire modpack so that you can come try it out and see how it all fits together.
-- Ready to Play!
-
 Connection Instructions:
 
-[Join](https://discord.gg/9n5QDTpDsk) Discord
+[Join Discord](https://discord.gg/9n5QDTpDsk)
 Then navigate to #zenheim-live > ZENHEIM - Connect
+
+- Hosted server showcasing the entire modpack so that you can come try it out and see how it all fits together.
+- Ready to Play!
 
 
 ### Compass

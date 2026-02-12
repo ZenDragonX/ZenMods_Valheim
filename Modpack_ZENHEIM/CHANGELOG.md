@@ -1,4 +1,7 @@
-v1.2.0
+v1.2.2 
+- remove VNEI - admins can add it manually if desired.
+
+v1.2.1
 - update Zenmodpack_CORE to v1.1.3 which inlcudes ZenLogin
 
 v1.1.14
