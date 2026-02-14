@@ -1,3 +1,6 @@
+v1.2.3
+- update readme with website info.
+
 v1.2.2 
 - remove VNEI - admins can add it manually if desired.
 

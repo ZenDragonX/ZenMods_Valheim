@@ -15,16 +15,14 @@ Best with these Valheim World Modifiers enabled:
 - NoMap - Getting lost is fun!
 - Fire (optional, if you want hard mode!)
 
-## Live Showcase
+## Live Server Showcase
 
-Connection Instructions:
+- Free public server available.
+- Pre-configured and ready to play.
+- Join now and see how ZENHEIM works in a multiplayer experience.
+- Connection info available on the website.
 
-[Join Discord](https://discord.gg/9n5QDTpDsk)
-Then navigate to #zenheim-live > ZENHEIM - Connect
-
-- Hosted server showcasing the entire modpack so that you can come try it out and see how it all fits together.
-- Ready to Play!
-
+Website: https://asgard.rocks
 
 ### Compass
 
