@@ -1,3 +1,6 @@
+v1.2.4
+- add default ZenLogin config file for logo.
+
 v1.2.3
 - update readme with website info.
 
