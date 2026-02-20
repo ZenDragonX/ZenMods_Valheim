@@ -1,3 +1,7 @@
+v1.2.5
+- added server_devcommands config file with defaults different from the mod's built in default.
+- this is for server maintenence, server dev commands is not built into the modpack anymore, admins can add it.
+
 v1.2.4
 - add default ZenLogin config file for logo.
 
