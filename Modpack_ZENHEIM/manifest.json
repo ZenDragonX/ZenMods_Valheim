@@ -1,7 +1,7 @@
 ﻿{
   "name": "ZENHEIM",
   "description": "Enhanced Valheim - The rules have changed. Improved immersion. Multiplayer or singleplayer balanced gameplay. Outstanding QoL enhancements. Tightly optimized code. Full gamepad support.",
-  "version_number": "1.2.5",
+  "version_number": "1.2.6",
   "website_url": "https://github.com/ZenDragonX/ZenMods_Valheim/wiki",
   "dependencies": [
 		"Azumatt-FirstPersonMode-1.3.12",
