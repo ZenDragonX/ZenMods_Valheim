@@ -1,7 +1,7 @@
 ﻿{
   "name": "ZenModpack_DEV",
   "description": "Collection of tools useful for quick setup of development environment.",
-  "version_number": "1.0.5",
+  "version_number": "1.0.6",
   "website_url": "https://github.com/ZenDragonX/ZenMods_Valheim/wiki",
   "dependencies": [
 		"ComfyMods-BetterZeeLog-1.12.0",
