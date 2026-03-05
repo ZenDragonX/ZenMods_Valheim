@@ -1,3 +1,6 @@
+v1.2.7
+- removed MultiUserChest, admins can add it to multiplayer worlds if desired.
+
 v1.2.6
 - removed server_devcommands config file from modpack.
 - this is for server maintenence, server dev commands is not built into the modpack anymore, admins can add it if desired.
