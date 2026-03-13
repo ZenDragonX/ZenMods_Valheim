@@ -1,3 +1,6 @@
+v1.2.8
+- removed Teleport_Instantly_Updates_Weather_And_Removes_Wet_Debuff
+
 v1.2.7
 - removed MultiUserChest, admins can add it to multiplayer worlds if desired.
 

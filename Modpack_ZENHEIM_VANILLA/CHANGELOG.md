@@ -1,3 +1,6 @@
+v1.2.5
+- removed Teleport_Instantly_Updates_Weather_And_Removes_Wet_Debuff
+
 v1.2.4
 - added default ZenLogin config file to show logo
 
