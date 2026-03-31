@@ -1,3 +1,6 @@
+v1.0.7
+- added ESP
+
 v1.0.6
 - update server_devcommands.cfg with new defaults.
 
