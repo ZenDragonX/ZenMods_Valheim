@@ -1,3 +1,9 @@
+v1.2.0
+- No diff from v1.1.4, but changed the minor version number to indicate that a gameplay changing new mod was added: ZenPortal.
+
+v1.1.4
+- Add ZenPortal
+
 v1.1.3
 - Add ZenLogin
 
