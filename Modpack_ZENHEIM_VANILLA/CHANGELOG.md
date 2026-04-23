@@ -1,3 +1,10 @@
+v1.3.0
+- Added first person mode to ZenUI
+- removed AzuFirstPersonMode from the modpack
+
+v1.2.6
+- removed the mod "Unremove" from the modpack to narrow scope.  That feature may be added to ZenConstruction in the future, or added manually.
+
 v1.2.5
 - removed Teleport_Instantly_Updates_Weather_And_Removes_Wet_Debuff
 

@@ -1,3 +1,6 @@
+v1.3.0
+- update all mods to latest versions in the modpack.
+
 v1.2.0
 - No diff from v1.1.4, but changed the minor version number to indicate that a gameplay changing new mod was added: ZenPortal.
 
