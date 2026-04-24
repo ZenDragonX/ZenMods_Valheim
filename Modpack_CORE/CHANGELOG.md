@@ -1,3 +1,6 @@
+v1.3.1
+- update ZenRedecorate, ZenPlayer, and ZenMap to use the latest versions.
+
 v1.3.0
 - update all mods to latest versions in the modpack.
 

@@ -1,3 +1,6 @@
+v1.3.2
+- update all mods in the modpack to the latest version (again).
+
 v1.3.1
 - update all mods in the modpack to the latest version.
 
