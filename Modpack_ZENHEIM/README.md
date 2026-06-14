@@ -2,7 +2,7 @@
 
 > NOTE: Apply all updates after installing this modpack
 
-The rules have changed.  A new experience unlike anything you have seen before.  Turn off your map via Valheim's World Modifiers and let the Cartography Table and Compass be your guide! Think wisely, getting lost is part of the adventure!  
+The rules have changed.  A great new experience.  Think of it as Vanilla+ everything you know and love about Valheim, refined and polished with some new twists and rules.  Turn off your map via Valheim's World Modifiers and let the Cartography Table and Compass be your guide! Think wisely, getting lost is part of the adventure!  
 
 Built from the ground up with a [CORE](https://thunderstore.io/c/valheim/p/ZenDragon/ZenModpack_CORE/) set of custom crafted ZenMods to ensure compatibility, reliability, and performance.
 
@@ -23,6 +23,8 @@ Best with these Valheim World Modifiers enabled:
 Website: https://asgard.rocks
 
 ## New Game Rules
+
+Open your in game Compendium (Raven Menu) to see a list of all the new rules in game!
 
 - Keep your fires lit!  Workbenches no longer protect against monster spawns, torches and fireplaces do.
 - Each player sees their own version of the Boss Stones depending on their own progression so you don't all have to play at the same time.

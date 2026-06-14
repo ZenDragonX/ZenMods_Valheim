@@ -1,3 +1,6 @@
+v1.3.5
+- update readme.
+
 v1.3.4
 - cleanup: explicitly target the latest BepInEx because with fresh installs some of the 3rd party mods in the pack target older versions of BepInEx which cause mod managers to install the older version of BepInex that included dlls that are not longer needed.
 

@@ -1,7 +1,7 @@
 ﻿{
   "name": "ZENHEIM",
   "description": "Enhanced Valheim - The rules have changed. Improved immersion. Multiplayer or singleplayer balanced gameplay. Outstanding QoL enhancements. Tightly optimized code. Full gamepad support.",
-  "version_number": "1.3.4",
+  "version_number": "1.3.5",
   "website_url": "https://www.asgard.rocks/",
   "dependencies": [
 		"denikson-BepInExPack_Valheim-5.4.2333",
