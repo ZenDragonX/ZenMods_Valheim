@@ -1,3 +1,7 @@
+v1.3.3
+- add AzuAntiCheat & ServerCharacters into the modpack directly.
+- pre-configure ZenLogin
+
 v1.3.2
 - update all mods in the modpack to the latest version (again).
 
