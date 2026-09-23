@@ -4,7 +4,7 @@
 
 The rules have changed.  A great new experience.  Think of it as Vanilla+ everything you know and love about Valheim, refined and polished with some new twists and rules.  Turn off your map via Valheim's World Modifiers and let the Cartography Table and Compass be your guide! Think wisely, getting lost is part of the adventure!  
 
-Built from the ground up with a [CORE](https://thunderstore.io/c/valheim/p/ZenDragon/ZenModpack_CORE/) set of custom crafted ZenMods to ensure compatibility, reliability, and performance.
+Built from the ground up with a [CORE](https://valheim.hexium.gg/mods/ZenDragon/ZenModpack_CORE) set of custom crafted ZenMods to ensure compatibility, reliability, and performance.
 
 Full gamepad support. Pre-configured, ready to play! 
 
@@ -84,7 +84,7 @@ Open your in game Compendium (Raven Menu) to see a list of all the new rules in 
 
 By design there are no crafting from containers or other forms of automation because they accelerate the gameplay loop. Instead, you have a robust set of new features for hoard management via signs and redecoration that fix a lot of the painful issues of finding what you are looking for.  Just point at a sign and assign items to it to view the quantity nearby.  Tap a sign to locate the item in a container.  Middle-click an item in your inventory to find it in nearby containers.
 
-[Learn More...](https://thunderstore.io/c/valheim/p/ZenDragon/ZenSign/)
+[Learn More...](https://valheim.hexium.gg/mods/ZenDragon/ZenSign)
 
 ![Example Hoard](https://raw.githubusercontent.com/ZenDragonX/ZenMods_Valheim/refs/heads/main/screenshots/ZenSign/example.jpg)
 

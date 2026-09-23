@@ -1,3 +1,8 @@
+v1.5.1 
+
+- updated for deep north.  Apply all updates.
+- removed Seasons mod temporarily while working on balance issues. 
+
 v1.4.1
 - updated the reference to Zenmodpack_CORE to the latest version, no functional changes. Just version numbering updates.
 

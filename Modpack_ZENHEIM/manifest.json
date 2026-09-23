@@ -1,14 +1,14 @@
 ﻿{
   "name": "ZENHEIM",
   "description": "Enhanced Valheim - The rules have changed. Improved immersion. Multiplayer or singleplayer balanced gameplay. Outstanding QoL enhancements. Tightly optimized code. Full gamepad support.",
-  "version_number": "1.4.1",
+  "version_number": "1.5.1",
   "website_url": "https://www.asgard.rocks/",
   "dependencies": [
-		"denikson-BepInExPack_Valheim-5.4.2333",
-		"Azumatt-AzuAntiCheat-4.3.11",
-		"shudnal-ConfigurationManager-1.1.13",
-		"shudnal-Seasons-1.7.9",
-		"Smoothbrain-ServerCharacters-1.4.16",
+		"denikson-BepInExPack_Valheim-5.4.2350",
+		"Azumatt-AzuAntiCheat-5.0.2",
+		"ComfyMods-BetterZeeLog-1.16.0",
+		"shudnal-ConfigurationManager-1.1.21",
+		"Smoothbrain-ServerCharacters-1.4.17",
 		"ZenDragon-AugaLite-1.0.5",
 		"ZenDragon-ZenModpack_CORE-1.3.2"
 	]
